@@ -9,13 +9,14 @@
 
 ### General Info
 - Elements positions in HTML/CSS
+- Crib
 
 ### Technologies
 - HTML5 
 - CSS3
 
 ### Status
-- Almost done
+- DONE
 
 ### Sources
 
